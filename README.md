@@ -1,1 +1,1 @@
-# Calculator-for-our-course-
+# Macca-Calculator
